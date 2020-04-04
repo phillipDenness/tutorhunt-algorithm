@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FibonacciTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-04T11:04:52" hostname="C02Z52NBLVCG" time="0.269">
+  <properties/>
+  <testcase name="testCalculateCallsFibonacci10Times" classname="FibonacciTest" time="0.269"/>
+  <system-out><![CDATA[[1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
